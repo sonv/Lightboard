@@ -3,7 +3,7 @@ This is the goal:
 
 ![lightboard](lightboard.jpg)
 
-Key feature:
+Key features:
 
 * Portable
 * Easy to adjust size
