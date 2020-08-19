@@ -31,3 +31,6 @@ The final product should look like this (please note the two sides)
 ![back](back.jpg)
 ![left](left.jpg)
 ![right](right.jpg)
+
+## Acknowledgement
+This project was generously supported by [Jason Howell](https://www.cmu.edu/math/people/faculty/howell.html).
