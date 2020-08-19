@@ -1,5 +1,6 @@
 ## Lightboard instruction
 This is the goal:
+
 ![lightboard](lightboard.jpg)
 
 ### Requirements
