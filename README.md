@@ -3,11 +3,26 @@ This is the goal:
 
 ![lightboard](lightboard.jpg)
 
+![demo](demo.mp4)
+
 Key features:
 
 * Portable
 * Easy to adjust size
 * Easy to interchange glasses during presentation so you don't have to erase all the time (good for statements of definitions/theorems).
+
+## Usage:
+You don't need to write backwards. Zoom has the option to flip your image so you can write normally. 
+If you use OBS, it also has option (called transform) to flip your image.
+
+Please follow the following to know how set up the lighting: [How I Make a Lightboard | Billy Backstage](https://www.youtube.com/watch?v=2mf03HhlE6E). You could follow his built as well but in my opinion, it's less flexible in terms of interchanging glasses during presentations.
+
+You don't need a fancy camera. However, you don't want to use your laptop's webcam either. Some recommended cameras (prices have rocketted due to the pandemic however...): 
+* Logitech C920 
+* Microsoft LifeCam Cinema 
+* Lenovo 500 FHD Webcam
+* Your phone back camera is likely to better better however.
+
 
 ### Requirements
 
@@ -48,3 +63,7 @@ This project was generously supported by [Jason Howell](https://www.cmu.edu/math
 1. [USC professor’s DIY online teaching hack to engage students goes viral](https://news.usc.edu/174170/emily-nix-usc-professors-diy-online-teaching-hack/)
 
 2. [How I Make a Lightboard | Billy Backstage](https://www.youtube.com/watch?v=2mf03HhlE6E)
+
+## Questions? Suggestions?
+
+If you have questions, please feel free to contact me at: sonv @ andrew dot cmu dot edu
