@@ -33,7 +33,7 @@ You don't need a fancy camera. However, you don't want to use your laptop's webc
 |36 inch Wooden L-shape wall mould | $9.5 |
 |1" x 1" x 36" square dowel | 3.68 |
 |1-3/4" x 1-3/4" x 36" square dowel | $9.6 |
-|4" Corner brace   | $8    |
+|4" corner brace   | $8    |
 |1.5" corner brace | 4.98   |
 | Total | $104.13 for 36" x 30" or $68.13 for 18" x 24" |
 
