@@ -3,7 +3,7 @@ This is the goal:
 
 ![lightboard](lightboard.jpg)
 
-![demo](https://drive.google.com/file/d/11st3Axf6iM0eDDXzJOk_KdCnsoE1nwKD/view?usp=sharing)
+Watch [demo](https://drive.google.com/file/d/11st3Axf6iM0eDDXzJOk_KdCnsoE1nwKD/view?usp=sharing)
 
 Key features:
 
