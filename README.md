@@ -3,9 +3,7 @@ This is the goal:
 
 ![lightboard](lightboard.jpg)
 
-<video width="854" height="480" controls>
-  <source src="demo.mp4" type="video/mp4">
-</video>
+![demo](https://drive.google.com/file/d/11st3Axf6iM0eDDXzJOk_KdCnsoE1nwKD/view?usp=sharing)
 
 Key features:
 
