@@ -24,7 +24,7 @@ You don't need a fancy camera. However, you don't want to use your laptop's webc
 * Logitech C920 
 * Microsoft LifeCam Cinema 
 * Lenovo 500 FHD Webcam
-* Your phone back camera is likely to better better however.
+* Your phone back camera is likely to better than most webcam however.
 
 
 ### Requirements
