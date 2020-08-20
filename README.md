@@ -3,7 +3,9 @@ This is the goal:
 
 ![lightboard](lightboard.jpg)
 
-![demo](demo.mp4)
+<video width="854" height="480" controls>
+  <source src="demo.mp4" type="video/mp4">
+</video>
 
 Key features:
 
