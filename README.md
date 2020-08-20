@@ -3,8 +3,6 @@ This is the goal:
 
 ![lightboard](lightboard.jpg)
 
-<video src="demo.mp4" width="320" height="200" controls preload></video>
-
 Watch [demo](https://drive.google.com/file/d/11st3Axf6iM0eDDXzJOk_KdCnsoE1nwKD/view?usp=sharing)
 
 Key features:
