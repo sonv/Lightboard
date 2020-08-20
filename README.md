@@ -12,6 +12,9 @@ Key features:
 * Easy to interchange glasses during presentation so you don't have to erase all the time (good for statements of definitions/theorems).
 
 ## Usage:
+
+You need to use some sort of markers that have similar property to the Expo Neon or bright liquid chalks.
+
 You don't need to write backwards. Zoom has the option to flip your image so you can write normally. 
 If you use OBS, it also has option (called transform) to flip your image.
 
